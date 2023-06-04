@@ -1,4 +1,4 @@
-package com;
+package PROGRAM;
 
 public abstract class BaseEntity {
     private int id;

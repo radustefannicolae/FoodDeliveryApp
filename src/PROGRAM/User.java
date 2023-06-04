@@ -1,4 +1,4 @@
-package com;
+package PROGRAM;
 
 public class User {
     private String username;

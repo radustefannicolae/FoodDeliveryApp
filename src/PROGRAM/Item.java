@@ -1,4 +1,4 @@
-package com;
+package PROGRAM;
 
 public class Item {
     private String name;

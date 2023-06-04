@@ -1,4 +1,4 @@
-package com;
+package PROGRAM;
 
 public class Driver extends BaseEntity {
     private String name;

@@ -1,4 +1,4 @@
-package com;
+package PROGRAM;
 
 public class DeliveryException extends Exception {
     // Constructor, getters, and setters

@@ -1,4 +1,4 @@
-package com;
+package PROGRAM;
 
 public class Venue extends BaseEntity {
     private String name;
